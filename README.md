@@ -1,4 +1,4 @@
-# supreme-octo-journey
+# data analysis in R
 probability and statistics uc project
 
 Final Classification - 20/20
